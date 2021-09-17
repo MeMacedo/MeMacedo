@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <strong>I'm a Applied Math student at IME USP in Brazil.<br> For now I'm focused on learning the basics of Machine Learning and AI, but I'm also interested in Web Development </strong>
+  <strong>I'm a Applied Mathematics student at IME USP.<br> 
 </div>
 
 
