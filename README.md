@@ -1,11 +1,6 @@
-<div align="center">
-  <strong>👋 Hi, I’m Melissa!</strong><br>
-  <br>
-</div>
 
-<div align="center">
-  <strong>I'm a Applied Mathematics student at IME USP.<br> 
-</div>
+###👋 Hi, I’m Melissa!
+  
 
 
 
